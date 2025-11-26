@@ -34,3 +34,9 @@ The software application is located in the `software/helloAES` directory.
 ## Credits
 
 Based on: https://github.com/QuangTheGreat/AES-128-IP-Hardware-and-SoC-Integration-on-Altera-Cyclone-II-FPGA
+
+## Result
+[Youtube ](https://youtu.be/IiOmxwstXxs?si=AY4OhlfCqvZndW_H)
+
+
+<img width="766" height="663" alt="image" src="https://github.com/user-attachments/assets/7decbe9b-afee-460c-ba3c-d2d67f396c86" />
